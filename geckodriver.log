@@ -1,0 +1,1933 @@
+1607468190056	geckodriver	INFO	Listening on 127.0.0.1:41107
+1607468190059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKIb740"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607468195054	Marionette	INFO	Listening on port 46801
+1607468195119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607468214700	Marionette	INFO	Stopped listening on port 46801
+1607468226903	geckodriver	INFO	Listening on 127.0.0.1:53033
+1607468226907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekTWF1F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607468237896	Marionette	INFO	Listening on port 40603
+1607468237982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 200: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine yandex@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine mailru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ozonru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine priceru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1607468245505	Marionette	INFO	Stopped listening on port 40603
+1607468246340	geckodriver	INFO	Listening on 127.0.0.1:50963
+1607468246343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiThcCf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607468252752	Marionette	INFO	Listening on port 42329
+1607468252782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 200: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine yandex@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine mailru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ozonru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine priceru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1607468260344	Marionette	INFO	Stopped listening on port 42329
+1607468282185	geckodriver	INFO	Listening on 127.0.0.1:49707
+1607468282189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEdSMR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607468287506	Marionette	INFO	Listening on port 36773
+1607468287631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine yandex@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine mailru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ozonru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine priceru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1607468303390	Marionette	INFO	Stopped listening on port 36773
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+29490
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+29511
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+29538
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1607470039787	geckodriver	INFO	Listening on 127.0.0.1:55489
+1607470039797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesQ13mx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607470044905	Marionette	INFO	Listening on port 34025
+1607470044929	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 724))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: text
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/pages/entity/entity
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/components/footer/footer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/components/header/header
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/components/toolbox/toolbox
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: historyjs
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: crossroads
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: misc-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/startup
+http://requirejs.org/docs/errors.html#scripterror
+1607470068255	Marionette	INFO	Stopped listening on port 34025
+1607470118695	geckodriver	INFO	Listening on 127.0.0.1:33731
+1607470118700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE3dNIf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607470123365	Marionette	INFO	Listening on port 35035
+1607470123430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607470186424	Marionette	INFO	Stopped listening on port 35035
+1607476122953	geckodriver	INFO	Listening on 127.0.0.1:55951
+1607476123070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV5CdNH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607476130079	Marionette	INFO	Listening on port 36783
+1607476130108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607476165965	Marionette	INFO	Stopped listening on port 36783
+1607476291104	geckodriver	INFO	Listening on 127.0.0.1:43319
+1607476291108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP6NB64"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607476295029	Marionette	INFO	Listening on port 38257
+1607476295163	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607476346859	geckodriver	INFO	Listening on 127.0.0.1:58701
+1607476346863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemkGDIA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607476351197	Marionette	INFO	Listening on port 42831
+1607476351323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607476351747	Marionette	INFO	Stopped listening on port 38257
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607476399064	Marionette	INFO	Stopped listening on port 42831
+1607476442757	geckodriver	INFO	Listening on 127.0.0.1:48687
+1607476442761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei7f5nP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607476446757	Marionette	INFO	Listening on port 39591
+1607476446795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/components/toolbox/toolbox
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/components/footer/footer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/knockout/knockout-3.2.0.js, line 76: Error: Component 'header' has no template
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607476512344	Marionette	INFO	Stopped listening on port 39591
+1607898395706	geckodriver	INFO	Listening on 127.0.0.1:40399
+1607898395709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled3Y2tu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607898401015	Marionette	INFO	Listening on port 42389
+1607898401081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 200: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine yandex@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine mailru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ozonru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine priceru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1607898408980	Marionette	INFO	Stopped listening on port 42389
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+ExceptionHandler::GenerateDump cloned child 17058
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1607899997355	geckodriver	INFO	Listening on 127.0.0.1:59807
+1607899997359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJyFuYi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607900003896	Marionette	INFO	Listening on port 32911
+1607900004025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+1607997234466	geckodriver	INFO	Listening on 127.0.0.1:49943
+1607997234472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGK5jfG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607997238823	Marionette	INFO	Listening on port 41703
+1607997238936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607997377197	Marionette	INFO	Stopped listening on port 41703
+1607997423351	geckodriver	INFO	Listening on 127.0.0.1:44489
+1607997423355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNLte87"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607997430546	Marionette	INFO	Listening on port 35811
+1607997430590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607997615451	Marionette	INFO	Stopped listening on port 35811
+1608036718942	geckodriver	INFO	Listening on 127.0.0.1:40887
+1608036718953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb21beW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608036734730	Marionette	INFO	Listening on port 46433
+1608036734847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608037111179	geckodriver	INFO	Listening on 127.0.0.1:51455
+1608037111183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile46zl6u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608037115702	Marionette	INFO	Listening on port 41831
+1608037115834	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608037508980	geckodriver	INFO	Listening on 127.0.0.1:48701
+1608037508983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletAx8x8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608037513735	Marionette	INFO	Listening on port 45503
+1608037513844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608037805700	Marionette	INFO	Stopped listening on port 45503
+1608037861418	geckodriver	INFO	Listening on 127.0.0.1:38251
+1608037861421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHPl6sq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608037866265	Marionette	INFO	Listening on port 39281
+1608037866381	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+execute@resource://services-common/kinto-http-client.js:2400:44
+_fetchChangeset@resource://services-settings/RemoteSettingsClient.jsm:1038:22
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:890:20
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:595:35
+observe@resource://gre/modules/AsyncShutdown.jsm:554:16
+
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+1608038142149	Marionette	INFO	Stopped listening on port 39281
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+1608038760397	geckodriver	INFO	Listening on 127.0.0.1:46529
+1608038760413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerP9i6J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608038769260	Marionette	INFO	Listening on port 46649
+1608038769382	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1608040129453	geckodriver	INFO	Listening on 127.0.0.1:33755
+1608040129456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek333C7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608040137110	Marionette	INFO	Listening on port 41957
+1608040137225	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+execute@resource://services-common/kinto-http-client.js:2400:44
+_fetchChangeset@resource://services-settings/RemoteSettingsClient.jsm:1038:22
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:890:20
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:595:35
+observe@resource://gre/modules/AsyncShutdown.jsm:554:16
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+1608137242904	geckodriver	INFO	Listening on 127.0.0.1:57479
+1608137242948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletjiyti"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608137277739	Marionette	INFO	Listening on port 41093
+1608137277791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608137441309	Marionette	INFO	Stopped listening on port 41093
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608137720295	Marionette	INFO	Stopped listening on port 46433
+1608218520970	geckodriver	INFO	Listening on 127.0.0.1:41119
+1608218521913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexX5hLY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608218538989	Marionette	INFO	Listening on port 38891
+1608218539335	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608239067204	geckodriver	INFO	Listening on 127.0.0.1:43093
+1608239067208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9CSLwq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608239086499	Marionette	INFO	Listening on port 45337
+1608239086603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608239243937	Marionette	INFO	Stopped listening on port 45337
+1608239282891	geckodriver	INFO	Listening on 127.0.0.1:59243
+1608239282894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1afnb1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608239293709	Marionette	INFO	Listening on port 33425
+1608239293742	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608239926064	geckodriver	INFO	Listening on 127.0.0.1:52831
+1608239926067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb6dNAq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608239933787	Marionette	INFO	Listening on port 39509
+1608239933914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608240102079	Marionette	INFO	Stopped listening on port 39509
+1608240434941	geckodriver	INFO	Listening on 127.0.0.1:50323
+1608240434945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8yNLJY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608240442762	Marionette	INFO	Listening on port 34353
+1608240442780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1608240449289	Marionette	INFO	Stopped listening on port 34353
+1608240681139	geckodriver	INFO	Listening on 127.0.0.1:41747
+1608240681143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQYiK05"
+1608240718314	geckodriver	INFO	Listening on 127.0.0.1:35901
+1608240718318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecJOplB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608240725648	Marionette	INFO	Listening on port 39229
+1608240725755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608241186376	Marionette	INFO	Stopped listening on port 39229
+1608241213747	geckodriver	INFO	Listening on 127.0.0.1:50205
+1608241213750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8JzJx4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608241220883	Marionette	INFO	Listening on port 45473
+1608241221004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608241580399	geckodriver	INFO	Listening on 127.0.0.1:52599
+1608241580402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0CEYQz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608241588660	Marionette	INFO	Listening on port 43729
+1608241588743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608241632798	Marionette	INFO	Stopped listening on port 45473
+1608273620834	geckodriver	INFO	Listening on 127.0.0.1:53935
+1608273621682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUElC5f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608273649343	Marionette	INFO	Listening on port 44513
+1608273649522	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608273989453	geckodriver	INFO	Listening on 127.0.0.1:58029
+1608273989456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewoxP3H"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608274025837	geckodriver	INFO	Listening on 127.0.0.1:52331
+1608274025840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYGVhNA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608274032957	Marionette	INFO	Listening on port 43027
+1608274033106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608274583748	geckodriver	INFO	Listening on 127.0.0.1:48453
+1608274583751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileix9Vrt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608274590357	Marionette	INFO	Listening on port 40385
+1608274590389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608298384407	geckodriver	INFO	Listening on 127.0.0.1:59743
+1608298384418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHNlEtv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608298393315	Marionette	INFO	Listening on port 38337
+1608298393400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608309573552	Marionette	INFO	Stopped listening on port 38337
+1608313979801	geckodriver	INFO	Listening on 127.0.0.1:42277
+1608313979807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG4VL4S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608313988803	Marionette	INFO	Listening on port 46371
+1608313988858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608314047044	Marionette	INFO	Stopped listening on port 46371
+1608314334247	geckodriver	INFO	Listening on 127.0.0.1:44469
+1608314334254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef2cHoO"
+1608314358417	geckodriver	INFO	Listening on 127.0.0.1:36753
+1608314358422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEWAn9i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608314365217	Marionette	INFO	Listening on port 40955
+1608314365263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608314966558	geckodriver	INFO	Listening on 127.0.0.1:48221
+1608314966563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXF1ak7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608314976947	Marionette	INFO	Listening on port 44999
+1608314977024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1608314985825	Marionette	INFO	Stopped listening on port 44999
+1608315599046	geckodriver	INFO	Listening on 127.0.0.1:36921
+1608315599053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei8Yo81"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608315606623	Marionette	INFO	Listening on port 33267
+1608315606725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1608316916186	geckodriver	INFO	Listening on 127.0.0.1:56179
+1608316916192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez94hLb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608316924401	Marionette	INFO	Listening on port 45507
+1608316924441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608319012154	geckodriver	INFO	Listening on 127.0.0.1:36989
+1608319012160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS9dd1E"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608319018326	Marionette	INFO	Stopped listening on port 33267
+1608319022307	Marionette	INFO	Listening on port 42251
+1608319022430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608319426922	Marionette	INFO	Stopped listening on port 42251
+1608319438476	geckodriver	INFO	Listening on 127.0.0.1:54769
+1608319438482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexZlv4j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608319447001	Marionette	INFO	Listening on port 36183
+1608319447036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608319692954	geckodriver	INFO	Listening on 127.0.0.1:58563
+1608319692960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7PLfH8"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608319700033	Marionette	INFO	Stopped listening on port 36183
+1608319703272	Marionette	INFO	Listening on port 34857
+1608319703313	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1608319990369	geckodriver	INFO	Listening on 127.0.0.1:51849
+1608319990374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFKzyEq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608320003277	Marionette	INFO	Listening on port 32855
+1608320003365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608323903950	Marionette	INFO	Stopped listening on port 32855
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608324184624	geckodriver	INFO	Listening on 127.0.0.1:54885
+1608324184630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAg86Rk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608324191940	Marionette	INFO	Listening on port 38673
+1608324191980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608327886998	geckodriver	INFO	Listening on 127.0.0.1:38369
+1608327887001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP9lPl5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608327913146	Marionette	INFO	Listening on port 45637
+1608327913192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608399683537	geckodriver	INFO	Listening on 127.0.0.1:56547
+1608399683541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiJOB7d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399698213	Marionette	INFO	Listening on port 36331
+1608399698332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608403389357	Marionette	INFO	Stopped listening on port 36331
+1608403446531	geckodriver	INFO	Listening on 127.0.0.1:41207
+1608403446534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezWGBev"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608403458057	Marionette	INFO	Listening on port 37615
+1608403458083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1608408527439	geckodriver	INFO	Listening on 127.0.0.1:38867
+1608408527443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTCDkVi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608408534747	Marionette	INFO	Listening on port 42169
+1608408534776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608408540133	Marionette	INFO	Stopped listening on port 37615
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1608422728060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608423429855	geckodriver	INFO	Listening on 127.0.0.1:49385
+1608423429873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMtZdj0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608423442568	Marionette	INFO	Listening on port 33081
+1608423442654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608423602859	Marionette	INFO	Stopped listening on port 33081
+1608463147748	geckodriver	INFO	Listening on 127.0.0.1:40341
+1608463147752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDCIEz5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608463155527	Marionette	INFO	Listening on port 35091
+1608463155587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1608465408268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465493406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465576579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465647670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465719809	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465791944	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465873128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608465958272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466048359	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466132504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466208638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466285727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466374873	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466459015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466534139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466620243	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466729746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466826315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466910456	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608466994536	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467066648	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467142750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467231895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467303028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467376127	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467459272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467531365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467614464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467686593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467762730	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467840855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608467919993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468000118	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468084257	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468156390	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468236492	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468322620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468400773	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468506411	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468611049	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468713652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468809270	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468920914	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608468992031	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469064141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469146241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469221355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469310468	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469383593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469460708	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469543837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469618968	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469692080	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469768214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469850365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608469929524	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470012686	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470090858	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470172038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470248161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470327339	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470398458	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470489566	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470575143	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470684662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470770156	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470857677	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608470950134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471055718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471150233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471262758	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471359321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471444972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471530095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471613301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471684482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471772668	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471858836	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608471943995	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472034160	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472115323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472194480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472274625	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472348741	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472421892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472508045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472598195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472675386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472766499	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472855659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608472926800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473009977	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473096140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473199087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473306691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473411355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473486505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473571637	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473662771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473746969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473825150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473915353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608473994519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608474069713	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608474159885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608474246051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608474328214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608492225408	geckodriver	INFO	Listening on 127.0.0.1:42597
+1608492225412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileijnwm9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608492248065	Marionette	INFO	Listening on port 37037
+1608492248088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608492415730	geckodriver	INFO	Listening on 127.0.0.1:52389
+1608492415733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile42sl3x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608492424692	Marionette	INFO	Listening on port 37759
+1608492424806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608500025639	Marionette	INFO	Stopped listening on port 37759
+1611066728125	geckodriver	INFO	Listening on 127.0.0.1:44691
+1611066729221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevgNCv5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611066749561	Marionette	INFO	Listening on port 43839
+1611066750060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611066766097	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611066842274	geckodriver	INFO	Listening on 127.0.0.1:55771
+1611066842280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8KSwUS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611066851076	Marionette	INFO	Listening on port 44065
+1611066851155	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611067132187	geckodriver	INFO	Listening on 127.0.0.1:37651
+1611067132192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekClIDW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611067139728	Marionette	INFO	Listening on port 40659
+1611067139837	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611067575082	geckodriver	INFO	Listening on 127.0.0.1:37821
+1611067575087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecRYBQH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611067582916	Marionette	INFO	Listening on port 46327
+1611067583028	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611067758522	geckodriver	INFO	Listening on 127.0.0.1:50603
+1611067758527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegi8XAW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611067766460	Marionette	INFO	Listening on port 37133
+1611067766574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611067944863	Marionette	INFO	Stopped listening on port 37133
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
